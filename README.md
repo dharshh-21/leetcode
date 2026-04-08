@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dharshh-21/leetcode/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/dharshh-21/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/dharshh-21/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dharshh-21/leetcode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/dharshh-21/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
